@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58b8eb55-0954-4f51-ace4-40e03a696069" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/dto/ReservationCheckDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/YouBookingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/YouBookingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/config/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/config/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/ChamberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/ChamberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/entities/Chamber.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/entities/Chamber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/entities/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/entities/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/repositories/ChamberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/repositories/ChamberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/repositories/ReservationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/repositories/ReservationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/services/IChamberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/services/IChamberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/services/IReservationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/services/IReservationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/services/Impl/ChamberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/services/Impl/ChamberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/services/Impl/ReservationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/services/Impl/ReservationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/utiles/DtoToEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/utiles/DtoToEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/YouBookingApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/YouBookingApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/config/JwtUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/config/JwtUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/config/WebMvcConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/config/WebMvcConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/controllers/ChamberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/controllers/ChamberController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/controllers/HotelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/controllers/HotelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/controllers/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/entities/Chamber.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/entities/Chamber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/entities/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/entities/Reservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/entities/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/entities/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/repositories/ChamberRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/repositories/ChamberRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/repositories/ReservationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/repositories/ReservationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/services/IChamberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/services/IChamberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/services/IReservationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/services/IReservationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/services/Impl/ChamberServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/services/Impl/ChamberServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/services/Impl/ReservationServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/target/classes/com/example/youbooking/services/Impl/ReservationServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2JlMg7uD7NUtIW55k7CXe3PgDxU" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Youcode/Desktop/angular/AngularProject/back-end&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e0d21e362759fa0efc856e54a9cb1cc9&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Youcode\Desktop\YouBooking\front-end" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.youbooking" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="YouBookingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="YouBooking" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.youbooking.YouBookingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b8eb55-0954-4f51-ace4-40e03a696069" name="Changes" comment="" />
+      <created>1672648325233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672648325233</updated>
+      <workItem from="1672648329636" duration="292000" />
+      <workItem from="1672648665428" duration="121000" />
+      <workItem from="1672648800341" duration="129064000" />
+      <workItem from="1673284949490" duration="86042000" />
+      <workItem from="1673551578968" duration="4088000" />
+      <workItem from="1673613280497" duration="6998000" />
+      <workItem from="1673705691772" duration="39405000" />
+      <workItem from="1673900914707" duration="106000" />
+      <workItem from="1673903610142" duration="490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java</url>
+          <line>63</line>
+          <properties class="com.example.youbooking.controllers.UserController" method="register">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/back-end/src/main/java/com/example/youbooking/controllers/UserController.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
